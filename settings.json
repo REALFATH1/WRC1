@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "WcR1.aternos.me:43168",
+    "ip": "WcR1.aternos.me",
     "port": 43168,
     "version": "",
     "try-creative": false
